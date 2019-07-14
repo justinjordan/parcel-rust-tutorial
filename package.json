@@ -1,0 +1,13 @@
+{
+  "name": "parcel-rust-tutorial",
+  "description": "Getting Started with WASM Using ParcelJS and Rust",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "author": "Justin Jordan",
+  "homepage": "https://justinjordan.io",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3"
+  }
+}
